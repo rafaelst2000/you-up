@@ -61,3 +61,6 @@ form input {
 .back-link:hover{
   opacity: 0.8px;
 }
+.back-link svg{ 
+  margin-right: 8px;
+}
